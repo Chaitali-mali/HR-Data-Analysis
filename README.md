@@ -28,10 +28,10 @@ This project provides insights into employee behavior using HR data. It focuses 
 
 ---
 
-## 📷 Dashboard Preview
+## 🌐 Live Dashboard
 
-> *<img width="632" height="366" alt="HR Dashboard" src="https://github.com/user-attachments/assets/5738d034-7b54-4490-8486-e1ebb6b2383d" />
-)*
+[Click here to view the Live Power BI Dashboard](https://app.powerbi.com/view?r=XXXXXX)
+
 
 ---
 
