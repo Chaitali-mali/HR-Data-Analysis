@@ -34,7 +34,11 @@ This project provides insights into employee behavior using HR data. It focuses 
 
 
 ---
+## 📷 Dashboard Preview
 
+> *(<img width="632" height="366" alt="HR Dashboard" src="https://github.com/user-attachments/assets/b59e6a36-98be-40ac-90ff-e58eee2d58c1" />)*
+
+---
 ## 📌 Key Insights
 
 - High attrition rates were observed in departments with low satisfaction.
