@@ -46,7 +46,7 @@ This project provides insights into employee behavior using HR data. It focuses 
 - Time spent at the company shows correlation with attrition risk.
 
 ---
-# 📘 HR Data Analyst Project – Questions & Answers
+# 📘 HR Data Analyst Project – Questions & Answers(📘 [Read Questions & Answers](QA.md)
 
 ---
 
